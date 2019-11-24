@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Turrino/XRBologna
+  repo: XRBologna/XRBologna
   branch: master
   site_domain: modest-goldberg-3569c3.netlify.com
 publish_mode: editorial_workflow 
