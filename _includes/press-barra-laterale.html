@@ -1,0 +1,10 @@
+
+<div class="column right" style="background-color:#f1f1f1">
+  <h6 align=center>Tutti i comunicati</h6>
+	{% assign press_posts = site.posts | where_exp:"item", "item.categories contains 'Press'" %}
+  {% for post in press_posts %}
+    <li class="list-post-right-column">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</div>

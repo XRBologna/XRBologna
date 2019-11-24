@@ -1,0 +1,1095 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Our variables
+
+// Width of the content area
+
+
+
+
+// Import partials
+@import "agency";
+@import "post";
+//@import "pages";
+//@import "site";
+
+/* main top photo home*/ 
+
+.full-width-pic {
+    object-fit: cover;
+    object-position: 49% 0;
+    width: 100%;
+    height: 220px;
+}
+
+@media (min-width: 992px) {
+	.full-width-pic {
+	height: 50%;
+}
+}
+	
+
+/* font dimensions on mobile*/
+
+@media (max-width: 600px) {
+h2.big-title.primarycolor {
+	font-size: 2em;
+}
+h1.big-title.whitecolor {
+	font-size: 2.5em;
+}
+h1.big-title {
+    font-size: 2.5em;
+}
+h2.big-title {
+	font-size: 2.2em;
+}
+
+p {
+    font-size: 19px;
+    line-height: 1.65;
+}
+
+}
+/*removing weird margin to rows?*/
+	
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+	
+/* chi siamo title padding*/
+h2.text-center {
+	margin-top: 20px;
+    margin-bottom: 30px;
+	}
+
+
+/*h6 font size and padding*/
+h6 {
+	
+    line-height: 1.5;
+	font-kerning: none;
+    font-size: 1.2em;
+	    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+/*all links color*/
+
+a {
+ color: green;
+}
+
+a:hover {
+ color: #2cbc01;
+}
+
+
+/*fixing white space at the top*/
+
+#page-content {
+    position: relative;
+    top: 60px;
+}
+
+/* navigation bar style*/
+
+.navbar-default.navbar-custom .navbar-brand:hover, .navbar-default.navbar-custom .navbar-brand:focus, .navbar-default.navbar-custom .navbar-brand:active, .navbar-default.navbar-custom .navbar-brand.active {
+      color: white;
+}
+	
+a.nav-link.link-active{
+   
+	 background: white;
+}
+
+.navbar-default.navbar-custom .navbar-nav > .active > a:hover{
+      color: white;
+}
+
+.navbar-default.navbar-custom .nav li a {
+    color: black;
+}
+
+.navbar-custom.affix-top .nav li a, .navbar-custom.sps--abv .nav li a {
+	font-size: inherit;
+    padding-left: 10pt;
+	padding-right: 10pt;
+	}
+	
+
+/*adjusting menu vertical alignment*/
+
+	@media (min-width: 768px) {
+	.navbar-nav {
+    margin: 9.75px -15px;
+}
+}
+	
+/*nav bar brand size, alignment*/
+.navbar-custom.sps--abv .navbar-brand svg {
+    height: -webkit-fill-available;
+}
+
+/*nav bar padding to 0.5%*/
+.navbar-default.navbar-custom {
+    padding: 0.5%;
+}
+	
+/*mobile menu*/	
+	
+.navbar-default.navbar-custom .navbar-collapse {
+		border: none
+	}
+#bs-example-navbar-collapse-1 > ul {
+	margin: 1%;
+}
+.navbar-collapse.in {
+    overflow-y: visible;
+}
+.navbar-collapse {
+		padding:0;
+	}
+	
+.container>.navbar-collapse {
+		margin: 0;
+	}
+	
+@media (max-width: 500px){
+	.pull-right {
+    float: left !important;
+	}
+	.nav>li {
+	padding-left: 50px;
+	}
+}
+	
+/*nav bar brand alignment in mobile*/
+
+@media (min-width: 768px) {
+
+.navbar-custom.affix-top .navbar-brand, .navbar-custom.sps--abv .navbar-brand {
+    margin-top: 0;
+	margin-bottom: 0;
+	}
+}
+
+/*nav bar brand font size in mobile*/
+
+@media (min-width: 768px) {
+.navbar-custom .navbar-brand {
+    font-size: 1.2em;
+}
+}
+	
+/* navigation bar responsiveness */
+
+@media (max-width: 992px) and (min-width: 768px) {
+.nav.navbar-nav {
+	flex-direction: row;
+}
+button.navbar-toggler {
+	display: none;
+}
+.navbar-custom.sps--abv .nav li a {
+	font-size: 0.85em;
+    padding-left: 7pt;
+    padding-right: 7px;
+    position: relative;
+    left: 10%;
+}
+
+}
+	 
+
+
+@media (min-width: 768px){
+	
+.navbar-collapse.collapse {
+    display: none;
+}
+	.collapse:not(.show) {		
+    display: none;
+}
+}
+	
+
+/*nav bar adjusting alignment of inner elements*/	
+.navbar>.container, .navbar>.container-fluid {
+        display: inline-block
+}
+
+/*button of hamburger menu*/
+.navbar-default.navbar-custom .navbar-toggler {
+     color: black;
+    font-size: inherit;
+	float: right;
+    margin: 15px
+ }
+ 
+/*svg in mobile version: black*/
+.navbar-default.navbar-custom .navbar-brand svg path {
+    fill: black;
+}	
+
+
+/*logo size*/
+ .navbar-custom.sps--abv .navbar-brand svg {
+    height: 63px;
+	padding: 4px;
+}
+
+.navbar-default.navbar-custom .nav li a.nav-link.nav-item-highlight {
+	background-color: $color-xr-orange;
+}
+
+.navbar-default.navbar-custom .nav li a.nav-link.nav-item-highlight:hover {
+	color: black;
+	background-color: $color-xr-yellow;
+}
+
+.navbar-default.navbar-custom .nav li a.nav-link.nav-item-highlight.link-active {
+	color: black;
+	background-color: $color-xr-red;
+}
+
+/* Collapsible */
+.expand_caret {
+	transform: scale(1.6);
+	margin-left: 8px;
+	margin-top: 39px;
+	border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid #000000;
+}
+
+@media (max-width: 500px){
+	.expand_caret {	
+		margin-left: 0;
+	}
+}
+
+
+div[aria-expanded='false'] > div[class='col-xs-12'] > div[class='row'] > .expand_caret {
+	transform: scale(1.6) rotate(-90deg);
+}
+.row[data-toggle="collapse"]:hover {
+	cursor: pointer;
+	background-color: lightgray;
+}
+
+/*button position*/
+#buttonhome1 {
+    position: relative;
+    top: 15px;
+}
+
+/*reduce padding of main container in mobile*/
+@media (max-width: 500px){
+.container {
+    padding-left: 5px;
+	padding-right: 5px;
+	
+}
+}
+
+
+/*home main colum width and padding*/
+
+.col-lg-12 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: auto
+}
+
+@media (min-width: 1200px) {
+.col-lg-12 {
+    float: none;
+}
+}
+
+/* removing underline effect on hover for all buttons */
+a, a:hover, a:focus, a:active, a.active {
+      text-decoration: none;
+}
+
+/*adjusting sections padding and margin*/
+
+.dark-banner {
+    padding: 50px 10px 70px;
+}
+@media (max-width: 992px) {
+.dark-banner {
+    padding: 30px 10px 50px;
+}
+}
+
+h2.big-title.primarycolor {
+ 
+    margin-top: 0;
+}
+
+
+h1.big-title.whitecolor {
+	margin-top: 0;
+}
+
+section.home-revendications {
+    margin-bottom: 50px;
+}
+
+section.home-revendications ol {
+     margin-bottom: 0px;
+}
+
+
+/* fixing form button*/
+div.form-group.col-xs-12 {
+    display: grid;
+     margin: auto;
+   padding-top: 4%
+}
+   
+ button.btn.btn-success.btn-lg {
+	 border: none;
+	background-color: $theme-primary;
+	font-family: 'FucXed';   
+	border-radius: unset;
+	padding: 10px 30px;
+    width: 30%;
+    margin: auto;
+   }
+
+@media (max-width: 500px) {
+	button.btn.btn-success.btn-lg {
+		width: -webkit-fill-available;
+}
+}
+/*-----*/
+@media (max-width: 500px) {
+	
+	.col-lg-8.col-lg-offset-2 {
+		padding: 0;
+	}
+	.inputform {
+	padding: 0.5em;
+	}
+	div.form-group {
+	font-size: 13pt;
+	}
+	
+}
+
+@media (min-width: 768px){
+.inputform
+{
+    width: 75%;
+    margin: auto;
+}
+}
+
+/* footer: adjusting padding, logo size, footer position, mobile: central alignment, white while hover*/
+
+footer {
+    padding: 25px 0 0;
+}
+
+ul.footer-list {
+    display: contents;
+}
+
+
+.footer-col.col-md-4 {
+	    padding: 15px;
+}
+
+.footer-col.col-md-4 svg#Layer_1 {
+	height: 80px;
+}
+
+@media (max-width: 768px) {
+footer ul.footer-list li {
+        text-align: center;
+}
+}
+
+footer.text-center {
+    position: relative;
+    bottom: -100px;
+  
+}
+
+footer a:hover, a:focus, a:active, a.active {
+    color: white;
+	text-decoration: none;
+}
+
+
+
+/*Chi siamo page adjustments*/
+
+#chisiamo-title {
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+#chisiamo-lastbutton {
+margin:auto}
+
+/*unisciti a noi/ribellati*/
+#ribellati-title {
+    margin-top: 3%;
+    margin-bottom: 0%;
+}
+
+.chi-siamo-main-text {
+	padding: 0px;
+    padding-top: 30px;
+}
+
+
+/*contattaci*/
+
+#contatti-title {
+    margin-top: 3%;
+    margin-bottom: 0%;
+}
+
+.contatti-table table {
+	width: 40%;
+	padding: 0 0 6% 0;
+	
+}
+
+.contatti-table td {
+	width: 30%;
+}
+
+.contatti-table table, th, td {
+  border: 2px solid #f1f1f1;
+  border-collapse: collapse;
+}
+
+.contatti-table th, td {
+	padding: 15px;
+	text-align: left;
+}
+.contatti-table tr:nth-child(even) {
+	background-color: #f1f1f1;
+}
+.contatti-table tr:nth-child(odd) {
+	background-color: #fff;
+}
+
+.contatti-table td:nth-child(1) {
+	background: rgba(108, 125, 125, 0.1);
+    width: 15%;
+    text-align: right;
+	vertical-align: top;
+}
+
+.contatti-table a {
+	text-decoration: none;
+	color: #0098c7 
+}
+
+.contatti-table a:hover {
+	color:#00c3ff;
+}
+.contatti-table a:visited {
+	color:indianred;
+}
+
+@media (max-width: 500px) {
+	.contatti-table table {	
+		table-layout: fixed;
+		width: 100%;
+	}
+	.contatti-table td {
+		font-size: 0.8em;
+		padding: 8px;
+	}
+	
+	.contatti-table td:nth-child(1) {
+		width: 10%;
+	}
+	
+	#contatti-main-column {
+	padding: 0;}
+}
+
+#contatti-logo {
+	margin: auto;
+	padding-top: 150px;
+    max-width: 190px;
+	min-width: 150px;
+    display: -webkit-box;
+	}
+
+
+/* l'emergenza page style*/
+
+#em-title1 {
+    margin-top: 3%;
+    margin-bottom: 0%;
+}
+
+
+#em-intro {
+	background-color: #f1f1f1;
+	width: 60%;
+	margin: auto;
+	padding: 4%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+#em-link p {
+	word-wrap: break-word;
+    font-size: 0.9em;
+    padding: 7px 0;
+}
+
+#em-centraltitle {
+	width: 100%;
+}
+
+#em-centraltext {
+	width: 60%;
+	padding-top: 2%;
+}
+
+#em-centraltext p img[alt=post-picture] {
+	display: block;
+    margin: auto;
+	    width: unset;
+	max-width: 100%;
+}
+
+#em-centraltext p a {
+	    text-decoration: underline;
+}
+
+@media (max-width: 1200px){
+#em-intro {
+	width: 90%;
+	padding-top: 2%;
+}
+
+#em-centraltext {
+	width: 90%;
+	padding-top: 2%;
+	margin: auto
+	}
+}
+
+@media (max-width: 500px){
+#em-intro {
+	width: 100%;
+	padding: 20px;
+}
+#em-centraltext {
+	width: 100%;
+	padding: 0.7em;
+	margin: 0;
+}
+#em-centraltext p {
+    font-size: 18px;
+}
+}
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
+#em-graphs {
+	display: inline-block;
+}
+
+#button-emergenza {
+	margin: auto;
+	display: table;
+}
+/* youtube video */
+@media (max-width: 993px){
+	#youtube-video-frame {
+	width: 100%;
+    height: 300px;
+	margin-top: 20px;
+}
+}
+
+/*pagina appello*/
+
+#appello-title {
+	margin-top: 30px;
+}
+
+#unisciti-campagna {
+	margin-bottom: 0;
+}
+
+#appello-pretendiamo {
+	margin-top: 0;
+	font-kerning: none;
+}
+	
+#appello-image {
+	margin: auto;
+    max-width: 90%;
+    display: -webkit-box;
+	}
+@media (max-width: 500px){	
+#appello-image {
+    max-width: 100%;
+}
+}
+
+#appello-logo {
+	margin: auto;
+	padding-top: 50px;
+    max-width: 190px;
+	min-width: 150px;
+    display: -webkit-box;
+	}
+
+
+#claimbody {
+	border-radius: 5px;
+    background-color: $gray-lighter;
+    padding: 20px;
+    font-family: Crimson text, serif;
+	font-size: 18pt;
+    text-align: left;
+    max-width: 900px;
+	margin: auto;
+	padding-top: 30px;
+}
+
+@media (max-width: 500px) {
+#claimbody {
+padding: 1em 0;
+}
+}
+
+h5 {
+	text-align: center;
+    font-size: 25pt;
+    margin: auto;
+    padding: 10px 0;
+	line-height: inherit;
+}
+
+#formblock {
+	display: block;
+	border-radius: 5px;
+    background-color: $gray-lighter;
+        font-family: Crimson text, serif;
+    text-align: center;
+    max-width: 900px;
+	margin: auto;
+	    padding: 30px 0px 40px 0px;
+}
+
+@media (max-width: 500px) {
+#formblock {
+    margin-top: 35px;
+}
+}
+
+input[type=submit] {
+	font-family: Fucxed, serif;
+    font-kerning: none;
+}
+
+#signform {
+    width: 80%;
+    margin: auto;
+}
+
+@media (max-width: 500px) {
+#signform {
+    width: 100%;
+    margin: auto;
+}
+}
+	
+#signlist-ita {
+width: 60%;
+margin: auto;
+}
+
+#signlist-world {
+width: 60%;
+margin: auto;
+}
+
+
+@media (max-width: 992px) {
+	
+#signlist-ita {
+width: 95%;
+margin: auto;
+}
+
+#signlist-world {
+width: 95%;
+margin: auto;
+}
+}
+
+// input[type=text], textarea, select {
+//     width: 100%;
+//     padding: 12px 20px;
+//     margin: 8px 0;
+//     display: inline-block;
+//     border: 1px solid #ccc;
+//     border-radius: 4px;
+//     box-sizing: border-box;
+// }
+
+// input[type=submit] {
+//     width: 100%;
+//     background-color: $theme-primary;
+//     color: white;
+//     padding: 10px 30px;
+//     margin: 8px 0;
+//     border: none;
+//     cursor: pointer;
+// }
+
+.column-appellopage {
+	width: 90%;
+    margin: auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin: auto
+}
+
+.img-medium-width {
+	margin: auto;
+    max-width: 90%;
+    display: -webkit-box;
+    position: relative;
+    top: 80px;
+}
+
+@media (max-width: 500px){
+.img-medium-width {
+    max-width: 100%;
+}
+}
+
+
+#privacy-page {
+	position: relative;
+	top: 50px;
+	
+}
+
+.faq-privacy-logo {
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom: 80px;
+    max-width: 190px;
+	min-width: 150px;
+    display: -webkit-box;
+	}
+
+
+/* notizie page layout*/
+* {
+  box-sizing: border-box;
+}
+
+.list-post-right-column{
+    padding: 7px 0;
+    list-style: none;
+}
+
+.column {
+  float: left;
+  padding: 20px;
+  }
+
+.left {
+    padding: 0 0.5em;
+	width: 75%;
+}
+
+.right {
+	text-align: left;
+  width: 25%;
+}
+
+#notizie-main-row {
+	width: 80%;
+	margin: auto
+}
+
+#post-main-row {
+	display: block;
+	position: relative;
+    top: 120px;
+	width: 90%;
+	margin: auto
+}
+
+
+@media (max-width: 1200px) {
+	#notizie-main-row {
+	width: 100%;
+	}
+	
+	#post-main-row {
+	width: 100%;
+
+	}
+	
+}
+
+@media (max-width: 500px){
+#post-main-row {
+    top: 60px;
+    padding: 0;
+}
+}
+
+#post-preview-list{
+	list-style: none;
+	text-align: left;
+	display: contents;
+}
+
+ul#post-preview-list > li {
+	margin-bottom: 40px;
+}
+
+@media (max-width: 768px) {
+	#notizie-main-row {
+	display: flex;
+    flex-direction: column;
+	padding: 4%;
+	}
+
+
+	div.column.left {
+	display: contents;
+	width: 100%;
+	padding: 5%;
+	}
+	div.column.right {
+		margin-top: 20px;
+	    width: 100%;
+	}
+	
+    div.column.right.li {
+	padding: 6% 0;
+}
+	}
+
+
+#notizie-main-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+.post-preview-module {
+	padding: 0 0.7em;
+}
+
+@media (max-width: 500px){
+.post-preview-module {
+    padding: 0 0 40px;
+}
+}
+
+/*post appearance in notizie page*/
+#single-post-title {
+	text-align: center;
+	padding-bottom: 2%;
+    padding-top: 0;
+}
+
+#single-post-preview {
+	padding: 0 0 7%;
+}
+
+/*-----------------------------*/
+
+
+#post-title {
+	margin-top: 0;
+}
+
+/* images inside posts*/
+
+#post-main-pic {
+    object-fit: cover;
+    object-position: 50% 50%;
+    width: 100%;
+    max-height: 550px;
+}
+
+@media (max-width: 500px) {
+	#post-main-pic {
+	max-width: 100%;
+	height: auto;
+}
+}
+
+#post-main-pic-inside-post {
+	width: 100%;
+	max-width: 1000px;
+}
+
+/*-----------------------------*/
+
+
+img[alt=post-picture] {
+	display: block;
+    margin: auto;
+    max-height: 800px;
+    max-width: 100%;
+	padding: 2% 0;
+}
+
+#post-details {
+    padding: 5px;
+	color: darkgray;
+}
+
+#post-content-container {
+	width: 90%;
+	text-align: left;
+}
+@media (max-width: 500px){
+#post-content-container {
+	width: 100%;
+}
+
+#post-content-container.col-lg-12 {
+	padding: 0.7em;
+}
+}
+
+
+
+	/* post: navigation: style*/
+
+.PageNavigation {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+a.next {
+	float: right;
+}
+
+	
+	
+/* buttons hover effect*/
+
+a.button:hover {
+-webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  background-color: #b14545;
+}
+
+button.btn.btn-success.btn-lg:hover {
+-webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  background-color: green;
+}
+
+input[type=submit]:hover {
+-webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  background-color: green;
+}
+
+/* adjusting font color for active link*/
+
+.navbar-default.navbar-custom .navbar-nav > .active > a {
+       color: white;
+}
+
+@media (min-width: 768px){
+a.nav-link.link-active:hover {
+     color: white;
+	 	
+}
+}
+
+
+.hero-video {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-size: cover;
+}
+.hero-video iframe{
+	width: 100%
+}
+.flex-embed {
+	max-height: 650px;
+	display: block;
+	overflow: hidden;
+	position: relative;
+}
+.flex-embed__ratio--2by1 {
+	padding-bottom: 50%;
+}
+.flex-embed__content {
+	bottom: 0;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+.form-response {
+	font-family: "FucXed";
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+/* calendario embedded*/
+iframe#embeddedcalendar {
+	width: 70%;
+	display: grid;
+	margin: auto;
+	height: 800px;
+	}
+	
+@media (max-width: 1200px) {
+	iframe#embeddedcalendar { 
+	width: 100%;
+	max-height: 400px;
+	}
+}
+
+@media (max-width: 500px) {
+	ul#tabcalendari.nav.nav-tabs li.nav-item {
+		font-size: 13pt;
+		padding: 0;
+			}
+	ul#tabcalendari.nav.nav-tabs li.nav-item a.nav-link {
+		padding: 1px 4px;
+	}
+}
+
+/* i nostri valori section*/
+
+.valori {
+	padding-left: 0;
+	padding-right: 0;
+}

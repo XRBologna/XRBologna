@@ -1,0 +1,53 @@
+---
+layout: page
+---
+<div id="page-content">
+<div class="title-banner">
+	<h1 id="ribellati-title" class="big-title">
+    	NOTIZIE
+	</h1>
+</div>
+{% assign news_posts = "" | split: "" %}
+
+{% for apost in site.posts %}
+  {% unless apost.categories contains 'Press' %}
+    {% assign news_posts = news_posts | push: apost %}
+  {% endunless %}
+{% endfor %}
+
+<div id="notizie-main-row" class=row align=center>
+  <div class="column left">
+
+    <p><ul id="post-preview-list">
+	{% for post in news_posts %}
+    <li>
+	<div class="post-preview-module">
+     <a href="{{ post.url }}">
+		<h5 id="single-post-title">{{ post.title }} </h5>
+		<h6 style="margin-top: 0; text-align: center; color: black;"> {{ post.subtitle }} </h6>
+	</a>
+	 {% if post.img %} <img id="post-main-pic" src=" {{ post.img }} "> {% endif %}
+	 <p id="post-details">
+     Scritto il {{ post.date | date: "%d %b  %Y" }} da {{ post.author }} -
+		<!--<a href="{{site.baseurl}}/categories/#{{category|slugize}}"> -->{{ post.categories }}</a>
+
+	</p>
+	{{ post.excerpt }}
+	<a href="{{ post.url }}">Leggi tutto...</a>
+	</div>
+    </li>
+  {% endfor %}
+
+</ul></p>
+
+<div>
+</div>
+
+  </div>
+  
+  {% include notizie-barra-laterale.html %}
+ 
+  </div>
+</div>
+</div>
+

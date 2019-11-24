@@ -1,0 +1,34 @@
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top navbar-custom navbar-expand-lg fixed-top sps--abv">
+    <div class="container align-items-stretch">
+        <a class="navbar-brand" href="{{ site.baseurl }}/index.html">
+		<div class="logo-navbar">
+           {% include xr-logo-ita-linear.svg %}
+		   </div>
+          <!-- <img src="img/ER-ITALIA-logo-black-Linear.png" height="40px" /> -->
+        </a>
+        <button class="navbar-toggler" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button">
+            <span class="sr-only">
+                Toggle navigation
+            </span>
+            Menu
+            <i class="fa fa-bars">
+            </i>
+        </button>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav ml-auto pull-right">
+                <li class="hidden">
+                    <a href="#page-top">
+                    </a>
+                </li>
+                {% for item in site.data.navigation %}
+                <li class="nav-item {% if page.url == item.link %}active{% endif %}">
+                    <a class="nav-link {{ item.class }}{% if page.url == item.link %} link-active{% endif %}" href="{{ item.link }}">
+                        {{ item.name }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>
