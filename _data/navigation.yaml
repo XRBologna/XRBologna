@@ -1,4 +1,6 @@
 - name: Notizie
   link: /
-- name: Calendario
-  link: /calendario/ 
+- name: Contatti
+  link: /contatti/ 
+- name: Ribellati
+  link: /ribellati/ 
