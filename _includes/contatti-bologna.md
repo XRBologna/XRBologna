@@ -14,7 +14,9 @@
 
 | --------||-------|
 | Info | [xrbologna@protonmail.com](mailto:xrbologna@protonmail.com) |
-| Facebook | [https://www.facebook.com/XRBologna/](https://www.facebook.com/XRBologna/) |
-| Instagram | [https://www.instagram.com/xrbologna/](https://www.instagram.com/xrbologna/) |
-| Gruppo nazionale | [https://www.extinctionrebellion.it](https://www.extinctionrebellion.it/contatti/) 
+| Facebook | [www.facebook.com/XRBologna](https://www.facebook.com/XRBologna/) |
+| Instagram | [www.instagram.com/xrbologna](https://www.instagram.com/xrbologna/) |
+| Telegram Bologna | [t.me/XRBologna](https://t.me/XRBologna) |
+| Telegram nazionale | [t.me/XRItaly](https://t.me/XRItaly) |
+| Gruppo nazionale | [www.extinctionrebellion.it](https://www.extinctionrebellion.it/contatti/) |
 
