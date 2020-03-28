@@ -4,13 +4,13 @@ layout: default
 
 <!-- Sezione ribellati -->
 <section class="contatti-dettagli">
-
-            <h1 class="big-title" align=center>RIBELLATI</h1>
-			<div id="contatti-main-column" class="col-lg-12" align="center">
-                				
-				<div class="contatti-table">
-                {% capture revendications_text %}{% include ribellati-bologna.md %}{% endcapture %}
-                {{ revendications_text | markdownify }}
-				</div>
-	       
+	<div class="container">
+			<div class="row">
+						<div class="col-lg-12">
+						<h2 class="text-center">RIBELLATI</h2>
+                {% capture ribellati %}{% include ribellati-bologna.md %}{% endcapture %}
+                {{ ribellati | markdownify }}
+						</div>
+			</div>
+	</div>	       
 </section>

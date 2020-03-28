@@ -10,8 +10,8 @@ layout: default
 			<div id="contatti-main-column" class="col-lg-12" align="center">
                 				
 				<div class="contatti-table">
-                {% capture revendications_text %}{% include contatti-bologna.md %}{% endcapture %}
-                {{ revendications_text | markdownify }}
+                {% capture contatti %}{% include contatti-bologna.md %}{% endcapture %}
+                {{ contatti | markdownify }}
 				</div>
 	       
 </section>
