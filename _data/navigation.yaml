@@ -1,5 +1,7 @@
 - name: Notizie
   link: /
+- name: Chi Siamo
+  link: /chi-siamo/   
 - name: Contatti
   link: /contatti/ 
 - name: Ribellati
