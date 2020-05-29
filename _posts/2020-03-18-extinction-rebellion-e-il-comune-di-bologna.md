@@ -2,7 +2,7 @@
 layout: post
 title: EXTINCTION REBELLION E IL COMUNE DI BOLOGNA
 author: XRBologna
-categories: post
+categories: Generale
 date: 2020-03-18T21:47:23.749Z
 img: /images/uploads/Palazzo Comunale.jpg
 ---
