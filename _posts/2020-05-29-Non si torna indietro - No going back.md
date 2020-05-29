@@ -4,7 +4,7 @@ title: Non si torna indietro - No going back
 author: XRBologna
 categories: Generale
 date: 2020-03-18T21:47:23.749Z
-img: /images/uploads/Anthropocenetires.jpg
+img: /images/uploads/nogoingback1.jpg
 ---
 È iniziata la "fase 2" e abbiamo ricominciato con la routine pre-pandemica.
 All'inizo della crisi sanitaria [persino il Segretario dell'ONU Guterres aveva affermato](https://www.ansa.it/ansa2030/notizie/diritti_uguaglianze/2020/04/29/guterres-emissioni-come-covid-lavorare-su-scala-globale_8d0d02fb-ab36-4674-aa24-ff6899102252.html): 
@@ -16,7 +16,10 @@ Aziende dal forte impatto ambientale che chiedono soldi ai governi, non vincolat
 Ma noi non ci stiamo, noi non vogliamo né possiamo tornare indietro, e per questo lanciamo anche qui la campagna **NO GOING BACK - NON SI TORNA INDIETRO**.
   
 Questo mondo è ancora alle prese con una pandemia che ci ha mostrato le contraddizioni e le insensatezze del nostro sistema economico, che ci ha ricordato quanto è fragile la nostra specie tutta, e al contempo come le disuguaglianze non ci espongano tutt* allo stesso modo. E allora bisogna mantenere alta l'attenzione sulla crisi climatica ed ecologica, di cui la pandemia è solo un assaggio, e i cui effetti saranno sempre più catastrofici e ineluttabili se aspettiamo ad agire.  
-Abbiamo puntato i negozi delle catene che, in svariati settori produttivi, concorrono ad alimentare il sistema tossico che ci sta uccidendo, e nel quale non vogliamo più vivere. Aziende che sfruttano fino all'osso lavoratori e risorse naturali, lasciandoci un'eredità di morte.  
+
+![No Going Back](/images/uploads/nogoingback2.jpg "Chiuso: per il bene comune")
+
+[Abbiamo puntato i negozi](https://www.facebook.com/XRBologna/posts/683802632410662) delle catene che, in svariati settori produttivi, concorrono ad alimentare il sistema tossico che ci sta uccidendo, e nel quale non vogliamo più vivere. Aziende che sfruttano fino all'osso lavoratori e risorse naturali, lasciandoci un'eredità di morte.  
   
 Sono invece i più sfruttati e i cosiddetti "non qualificati" di ieri ad essersi dimostrati i lavoratori "essenziali" di oggi. Gli operatori del SSN, gli autisti del trasporto pubblico, i netturbini e il personale dei supermercati, le tante donne il cui già gravoso lavoro di cura è improvvisamente aumentato, le/i migranti i cui diritti vengono riconosciuti solo quando conviene: tutt* hanno lavorato giorno e notte per accudire la società in questo momento di bisogno, e il senso civico ha portato tante comunità a istituire reti di mutuo soccorso.
 È giusto salvare le industrie inquinanti? I salvataggi ci costano molto più del denaro. Come risultato diretto dell'epidemia di Covid-19, i combustibili fossili, l'industria automobilistica, l'agricoltura e la zootecnia intensiva, le materie plastiche e l'industria chimica e del legno ricevono [sovvenzioni e aiuti finanziari ingiustificati dai governi di tutto il mondo](https://www.theguardian.com/environment/2020/apr/17/coronavirus-profiteers-condemned-as-polluters-gain-bailout-billions).
