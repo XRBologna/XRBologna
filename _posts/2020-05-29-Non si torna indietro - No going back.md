@@ -17,8 +17,6 @@ Ma noi non ci stiamo, noi non vogliamo né possiamo tornare indietro, e per ques
   
 Questo mondo è ancora alle prese con una pandemia che ci ha mostrato le contraddizioni e le insensatezze del nostro sistema economico, che ci ha ricordato quanto è fragile la nostra specie tutta, e al contempo come le disuguaglianze non ci espongano tutt* allo stesso modo. E allora bisogna mantenere alta l'attenzione sulla crisi climatica ed ecologica, di cui la pandemia è solo un assaggio, e i cui effetti saranno sempre più catastrofici e ineluttabili se aspettiamo ad agire.  
 
-![No Going Back](/images/uploads/nogoingback2.jpg "Chiuso: per il bene comune")
-
 [Abbiamo puntato i negozi](https://www.facebook.com/XRBologna/posts/683802632410662) delle catene che, in svariati settori produttivi, concorrono ad alimentare il sistema tossico che ci sta uccidendo, e nel quale non vogliamo più vivere. Aziende che sfruttano fino all'osso lavoratori e risorse naturali, lasciandoci un'eredità di morte.  
   
 Sono invece i più sfruttati e i cosiddetti "non qualificati" di ieri ad essersi dimostrati i lavoratori "essenziali" di oggi. Gli operatori del SSN, gli autisti del trasporto pubblico, i netturbini e il personale dei supermercati, le tante donne il cui già gravoso lavoro di cura è improvvisamente aumentato, le/i migranti i cui diritti vengono riconosciuti solo quando conviene: tutt* hanno lavorato giorno e notte per accudire la società in questo momento di bisogno, e il senso civico ha portato tante comunità a istituire reti di mutuo soccorso.
