@@ -4,10 +4,10 @@ title: Bologna, comincia il 1° settembre lo sciopero della fame di Extinction
   Rebellion
 author: XRBologna
 categories: Generale
-date: 2020-09-01T14:56:23.749Z
+date: 2020-09-01
 img: /assets/post-img/sciopero-della-fame-in-piazza-del-nettuno-bologna.jpg
 ---
-[Testo della dichiarazione di emergenza qui](https://www.xrbologna.it/sciopero)
+[Testo della dichiarazione di emergenza su questa pagina](https://www.xrbologna.it/sciopero)
 
 *Martedì 1° settembre comincia lo sciopero della fame di Daniele Quattrocchi, attivista di [Extinction Rebellion](https://extinctionrebellion.it/chi-siamo/extinction-rebellion/). Ogni giorno, dalle 16 alle 20, l’attivista in sciopero della fame sarà in Piazza del Nettuno, supportato da altri attivisti e da un presidio medico, per chiedere che il comune di Bologna rispetti gli impegni presi con la Dichiarazione di Emergenza Climatica ed Ecologica e la renda ampiamente pubblicizzata, che sia abbandonato il progetto edilizio sui Prati di Caprara, quello del Passante di Mezzo e dell'ex Caserma Mazzoni, e che sia istituita una Assemblea cittadina entro il 2020.* 
 
