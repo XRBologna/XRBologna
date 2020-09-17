@@ -1,7 +1,9 @@
 - name: Notizie
   link: /
 - name: Chi Siamo
-  link: /chi-siamo/     
+  link: /chi-siamo/   
+- name: Sciopero
+  link: /sciopero/    
 - name: Contatti
   link: /contatti/ 
 - name: Ribellati
