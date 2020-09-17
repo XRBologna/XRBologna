@@ -1,3 +1,10 @@
+
+###### Aggiornamento, Sabato 17 settembre 2020
+
+Lo sciopero della fame si è concluso. [Aggiornamento qui.]({% post_url 2020-09-17-conclusione-dello-sciopero %})
+
+---
+
 A quasi un anno di distanza dalla **Dichiarazione di Emergenza Climatica ed Ecologica (DECE)** con cui il Comune di Bologna si impegnava a produrre un piano d’azione per raggiungere gli obiettivi posti dalla Dichiarazione, constatando che non sono state prese decisioni concrete e vincolanti che rispettino l’urgenza della crisi climatica ed ecologica che viviamo, martedì 1° settembre comincia lo sciopero della fame di Daniele Quattrocchi, attivista di Extinction Rebellion.
 
 Ogni giorno, dalle 16 alle 20, l’attivista in sciopero della fame sarà in Piazza Re Enzo, supportato da altri attivisti e da un presidio medico.
