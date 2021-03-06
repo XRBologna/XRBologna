@@ -4,7 +4,7 @@ title: Eppur si muove
 author: XRBologna
 categories: Generale
 date: 2021-03-03T22:59:32.844Z
-img: /images/uploads/uccellino-che-vola.png
+img: /images/uploads/121595774_839739523448192_7172042048571627880_n.jpg
 ---
 In questi giorni di terza ondata, in cui viene evidenziato ancora una volta l’irresponsabilità dei nostr@ governant@ a livello nazionale, qualcosa, molto lentamente, si sta muovendo a Bologna.\
 Ci siamo scontrati diverse volte con l’Amministrazione Comunale, più di una volta gli abbiamo fatto presente che non ci fidiamo più della loro parola e che vogliamo i fatti. Abbiamo messo da parte la nostra indole ribelle e, ispirati dai nostri principi della non violenza e della comprensione, abbiamo deciso di sederci a tavolino con diversi attori per scrivere il regolamento delle assemblee cittadine (AC).
@@ -25,9 +25,11 @@ Questa scelta presenta alcuni punti interessanti, un processo che dura molto pu�
 
 **Cos’è successo fino ad adesso e cosa succederà ?**(qui puoi mettere le foto del calendario delle negoziazioni)
 
-Il primo passo di questo lungo cammino verso le AC è stato informare il consiglio comunale sullo strumento per farne conoscere funzionamento e potenzialità. Per farlo, in raccordo con FIU e grazie all’aiuto de Prof Lewanski, abbiamo contattato il *gotha* degli esperti in materia di democrazia partecipativa. (qui puoi mettere l’elenco). Gli e le espert@ hanno parlato al consiglio comunale, all’assessore ai tecnic@ del Comune e a tutta la cittadinanza in tre udienze conoscitive, in sessione congiunta tra Commissione Ambiente e Affari istituzionali.
+Il primo passo di questo lungo cammino verso le AC è stato informare il consiglio comunale sullo strumento per farne conoscere funzionamento e potenzialità. Per farlo, in raccordo con FIU e grazie all’aiuto de Prof Lewanski, abbiamo contattato il *gotha* degli esperti in materia di democrazia partecipativa. (qui puoi mettere l’elenco). Gli e le espert@ hanno parlato al consiglio comunale, all’assessore ai tecnic@ del Comune e a tutta la cittadinanza in [tre udienze conoscitive](https://www.youtube.com/watch?v=b331R4Zrrf8&t=424s), in sessione congiunta tra Commissione Ambiente e Affari istituzionali.
 
 Le tre udienze hanno superato le nostre aspettative in termini di informazioni ricevute e partecipazione dei Consiglier@.  Le udienze sono state una prova dell’effettivo interesse verso lo strumento. Le udienze sono finite il 3 febbraio.
+
+![](/images/uploads/calendario_tavolo.jpg)
 
 Il 25 febbraio c’è stato l’incontro preliminare del tavolo di negoziazione, finalizzato all’allineamento informativo dei vari attori e alla calendarizzazione degli incontri. Prima dell’inizio ufficiale del tavolo- martedì 9 marzo ore 17.30-18.30- ci sarà una giornata formativa il 4 marzo. In quell’occasione, per rispiegare lo strumento, interverrà il ricercatore Polaccco Marcin Gerwin, uno degli esperti presenti alla commissione e autore di uno dei modelli più in voga di AC. Dal 9 marzo, il tavolo si aggiornerà ogni martedi fino al 23. Ad inizio aprile il tavolo produrrà le linee guida definitive.
 
@@ -43,12 +45,6 @@ Non rimarremo a guardare il tavolo andare a picco.
 Ci approcciamo al tavolo con tutta la buona fede e la positività. Abbiamo deciso di credere- ancora una volta nei nostri amministratori- ma non avremo remore a far saltare il tavolo e a denunciare le storture- qualora ve ne fossero. Siamo in ribellione contro il potere istituito, non lo dimentichiamo e non vogliamo che lo dimenticate voi. Avvicinarci alle istituzioni, non vuole dire essere istituzionali. Andremo avanti con le nostre battaglie a prescindere dall’esito del tavolo, perché l’emergenza climatica ed ecologica non è sparita e il collasso degli ecosistemi e l’estinzione della nostra specie è sempre più vicina.
 
 Con rabbia e amore.
-
-
-
-
-
-
 
 Il 25 febbraio c’è stato l’incontro preliminare al tavolo di negoziazione per la scrittura del regolamento delle assemblee cittadine, da inserire nello statuto comunale.
 
