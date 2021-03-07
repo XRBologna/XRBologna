@@ -23,7 +23,7 @@ Sebbene, tutte e tre le possibilità presentassero pro e contro interessanti, ab
 
 Questa scelta presenta alcuni punti interessanti, un processo che dura molto può coinvolgere diversi attori. Far passare la proposta per il dibattito in consiglio ha funzione sia di legittimazione democratica e sia di informazione. Infatti, le sedute del consiglio sono pubbliche e registrate. Infine, inserire le AC nello statuto, le mette a riparo dai cambi di amministrazione. Infatti, una volta inserite e previsti i termini per l’attivazione, le AC non dipendono dalla volontà del singolo Assessore.
 
-**Cos’è successo fino ad adesso e cosa succederà**(
+**Cos’è successo fino ad ora e cosa succederà?** (
 
 Il primo passo di questo lungo cammino verso le AC è stato informare il consiglio comunale sullo strumento per farne conoscere funzionamento e potenzialità. Per farlo, in raccordo con FIU e grazie all’aiuto de Prof Lewanski, abbiamo contattato il *gotha* degli esperti in materia di democrazia partecipativa. Gli e le espert@ hanno parlato al consiglio comunale, all’assessore ai tecnic@ del Comune e a tutta la cittadinanza in [tre udienze conoscitive](https://www.youtube.com/watch?v=b331R4Zrrf8&t=424s), in sessione congiunta tra Commissione Ambiente e Affari istituzionali.
 
