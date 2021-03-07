@@ -23,9 +23,9 @@ Sebbene, tutte e tre le possibilità presentassero pro e contro interessanti, ab
 
 Questa scelta presenta alcuni punti interessanti, un processo che dura molto può coinvolgere diversi attori. Far passare la proposta per il dibattito in consiglio ha funzione sia di legittimazione democratica e sia di informazione. Infatti, le sedute del consiglio sono pubbliche e registrate. Infine, inserire le AC nello statuto, le mette a riparo dai cambi di amministrazione. Infatti, una volta inserite e previsti i termini per l’attivazione, le AC non dipendono dalla volontà del singolo Assessore.
 
-**Cos’è successo fino ad adesso e cosa succederà ?**(qui puoi mettere le foto del calendario delle negoziazioni)
+**Cos’è successo fino ad adesso e cosa succederà**(
 
-Il primo passo di questo lungo cammino verso le AC è stato informare il consiglio comunale sullo strumento per farne conoscere funzionamento e potenzialità. Per farlo, in raccordo con FIU e grazie all’aiuto de Prof Lewanski, abbiamo contattato il *gotha* degli esperti in materia di democrazia partecipativa. (qui puoi mettere l’elenco). Gli e le espert@ hanno parlato al consiglio comunale, all’assessore ai tecnic@ del Comune e a tutta la cittadinanza in [tre udienze conoscitive](https://www.youtube.com/watch?v=b331R4Zrrf8&t=424s), in sessione congiunta tra Commissione Ambiente e Affari istituzionali.
+Il primo passo di questo lungo cammino verso le AC è stato informare il consiglio comunale sullo strumento per farne conoscere funzionamento e potenzialità. Per farlo, in raccordo con FIU e grazie all’aiuto de Prof Lewanski, abbiamo contattato il *gotha* degli esperti in materia di democrazia partecipativa. Gli e le espert@ hanno parlato al consiglio comunale, all’assessore ai tecnic@ del Comune e a tutta la cittadinanza in [tre udienze conoscitive](https://www.youtube.com/watch?v=b331R4Zrrf8&t=424s), in sessione congiunta tra Commissione Ambiente e Affari istituzionali.
 
 Le tre udienze hanno superato le nostre aspettative in termini di informazioni ricevute e partecipazione dei Consiglier@.  Le udienze sono state una prova dell’effettivo interesse verso lo strumento. Le udienze sono finite il 3 febbraio.
 
