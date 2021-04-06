@@ -1,9 +1,14 @@
-Al momento il miglior modo per unirsi a noi è raggiungerci durante uno dei nostri momenti introduttivi.
+In questo momento purtroppo gli incontri di persona sono sospesi.
+Non per questo ci fermiamo! C'è ancora molto da fare.
 
-Ogni Lunedì ci ritroviamo per un aperitivo informale al [Kinotto Bar di Bologna, in Via Sebastiano Serlio, 25/2](https://www.google.com/maps/dir//Kinotto+Bar/@44.5074654,11.2828313,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x477fd4a0859b7161:0x19d0e64be232d270!2m2!1d11.3528711!2d44.5074868)
-Non siamo sempre nella stessa zona del bar, se non ci trovi chiedi allo staff.
+Se sei interessat* a darci una mano, o anche solo vuoi vedere cosa facciamo, contattaci direttamente, [per email o sui social](/contatti/), ti risponderemo appena possibile. Trovi anche gli [eventi online organizzati da XR Bologna qui.](https://www.facebook.com/XRBologna/events)
 
-Inoltre, trovi tutti gli eventi pubblici e presentazioni del movimento qui: [Eventi Facebook](https://www.facebook.com/pg/XRBologna/events/)
+NB. questo è il sito del gruppo bolognese, ma Extinction Rebellion è un movimento che esiste a livello nazionale ed internazionale.
+Se vuoi contattare il gruppo di Bologna, questo è il sito giusto.
+
+Trovi invece tutti [gli eventi pubblici e presentazioni del movimento (anche online!) a livello nazionale qui](https://www.extinctionrebellion.it/eventi/futuri/)
+
+Su [https://rebellion.global/](https://rebellion.global/) trovi le informazioni sul movimento a livello internazionazionale.
 
 Nel dubbio, [contattaci](/contatti/)
 
