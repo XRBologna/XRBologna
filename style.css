@@ -1,0 +1,163 @@
+/* Global Styles */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #444;
+}
+
+@font-face {
+ font-family:FucXedLatin;
+ src:url(FUCXEDCAPSLatin-Cyrillic.woff) format("woff");
+ font-display:swap
+}
+
+a {
+  color: #0077be;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header Styles */
+
+header {
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.logo a {
+  font-size: 24px;
+  font-weight: 700;
+  color: #444;
+  text-decoration: none;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu li {
+  margin-left: 40px;
+}
+
+.menu li:first-child {
+  margin-left: 0;
+}
+
+.menu a {
+  font-size: 18px;
+  font-weight: 700;
+  color: #444;
+  text-decoration: none;
+}
+
+.burger {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 20px;
+  cursor: pointer;
+}
+
+.burger span {
+  display: block;
+  width: 100%;
+  height: 3px;
+  background-color: #444;
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Hero Styles */
+
+.hero {
+  background-image: url('https://extinctionrebellion.uk/wp-content/uploads/2021/02/Featured-Image-Default.jpg');
+  background-size: cover;
+  background-position: center center;
+  height: calc(70vh - 85px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 48px;
+  font-family: FucXedLatin;
+  color: #fff;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  margin-bottom: 20px;
+  padding: 5px 30px 5px 30px;
+  background-color:black;
+}
+
+.hero h2 {
+  font-size: 24px;
+  font-family: FucXedLatin;
+  color: #fff;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  margin-bottom: 40px;
+  padding: 5px 20px 5px 20px;
+  background-color:black;
+}
+
+.container h1, h2 {
+	font-family: FucXedLatin;
+}
+
+.cta {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+  background-color: #0077be;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.cta:hover {
+  background-color: #005ea6;
+}
