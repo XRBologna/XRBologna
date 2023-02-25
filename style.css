@@ -114,7 +114,7 @@ nav {
 /* Hero Styles */
 
 .hero {
-  background-image: url('boloxr.JPG');
+  background-image: url('boloxr.jpg');
   background-size: cover;
   background-position: center center;
   height: calc(80vh - 85px);
