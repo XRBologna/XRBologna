@@ -1,0 +1,60 @@
+<section id="adc">
+      <div class="container">
+        <h2>Assemblee dei Cittadini - Aggiornamento pubblico</h2>
+        <p>
+          Siamo qui per dare un aggiornamento pubblico su quanto emerso dai presidi e dagli incontri svoltisi nelle ultime settimane.
+        </p>
+        <p>Siamo sempre state disponibili a collaborare con questa amministrazione per la buona riuscita dell’Assemblea Cittadina: prova di questa collaborazione è la stesura condivisa del Regolamento comunale che disciplina le Assemblee Cittadine, approvato il 29 luglio 2022. Tuttavia ci sono alcuni aspetti decisivi delle Assemblee nelle quali non siamo state coinvolte e sulle quali abbiamo ripetutamente richiesto chiarimenti all’amministrazione, senza ottenere risposte soddisfacenti. 
+        </p>
+		<p>Per questo lo scorso 6 febbraio abbiamo deciso di organizzare un primo presidio davanti a Palazzo d’Accursio, sottoponendo all’attenzione pubblica tre nodi problematici.
+        </p>
+		<ol>
+		<li>
+		<p>In primo luogo, ci era stato detto che l’Assemblea Cittadina sarebbe iniziata a inizio autunno 2022, ma, dopo ripetute sollecitazioni nessuna tempistica è stata resa nota fino a questo febbraio. Ci sono voluti i presidi di Xr affinché l’amministrazione pubblicasse una nuova timeline, che ha posticipato l’inizio dell’Assemblea Cittadina al mese di aprile. Ricordiamo che l'Assemblea avrà una durata di quattro mesi, eventualmente prorogabili di altri tre qualora l’Assemblea stessa lo ritenesse necessario. Purtroppo questo ritardo non soltanto contrasta con l’urgenza della crisi ecologica, ma si riflette soprattutto sul rapporto tra l’Assemblea Cittadina e la Missione europea per rendere Bologna climaticamente neutra entro il 2030.
+        </p>
+		<p>Il principale scopo della Missione promossa dalla Commissione Europea è fare in modo che i Comuni prendano accordi con le società partecipate e le aziende per raggiungere la neutralità climatica. Il cosiddetto city contract è infatti il documento che deve essere presentato alla Commissione Europea ad ottobre 2023 per accedere ai finanziamenti europei. L’amministrazione comunale ha sempre dichiarato che l’ Assemblea Cittadina avrebbe avuto un ruolo centrale all’interno della Missione, eppure con l’attuale timeline non si vede come questo sia possibile. Terminando a ridosso della presentazione del city contract, l’Assemblea cittadina non potrà influenzare gli impegni che attori economici e amministrazione si assumeranno nel documento.
+        </p>
+		<p>L'amministrazione ci ha risposto che il City contract non è un documento vincolante, ma una semplice dichiarazione di intenti aperta, alla quale possono essere aggiunte proposte anche dopo ottobre. Questa risposta però non coglie la sostanza del problema, perché la presentazione del City contract sarà il momento di massima visibilità del progetto e nel quale gli attori locali saranno maggiormente incentivati a prendere impegni significativi. Certo, più tardi potranno arrivare ulteriori proposte da parte dell’Assemblea Cittadina, ma quale incentivo avranno i firmatari a modificare gli impegni già presi, nel caso in cui l’Assemblea Cittadina proponga di adottare politiche più radicali dal punto di vista ecologico? 
+        </p>
+		<p>È vero che l’Assemblea Cittadina non potrebbe in ogni caso esercitare un potere diretto sugli attori locali. Le sue proposte, infatti, devono essere sottoposte al Consiglio Comunale, che successivamente decide se approvarle, modificarle o rigettarle. Tuttavia, il Comune svolge un ruolo di mediazione e di coordinamento con agli attori dei City contract, e potrebbe assumersi l’impegno politico di trasmettere loro le proposte che emergeranno dall’Assemblea Cittadina, in modo che queste abbiano un peso reale nella definizione delle politiche ecologiche. Ma questo non sarà possibile, perché l’Assemblea Cittadina si concluderà troppo tardi.
+        </p>
+		</li>
+		<li>
+		<p>Il secondo nodo riguarda la composizione del comitato di coordinamento dell’Assemblea Cittadina. La sua governance, infatti, è costituita da quattro comitati: di coordinamento, di supporto, di garanzia e di monitoraggio.
+        </p>
+		<p>Il comitato di coordinamento è quello che svolge le funzioni di (cito) “progettazione, organizzazione, selezione dei partecipanti, gestione, logistica, facilitazione di processo e comunicazione esterna”. Si tratta dunque di un ruolo cruciale e di notevole valenza politica, perché da esso dipendono le scelte concrete che condizioneranno lo svolgimento dell’Assemblea Cittadina. Xr ha chiesto all’amministrazione di inserire nel comitato di coordinamento, oltre a rappresentanti del Comune e di Fondazione Innovazione Urbana, almeno un esperto del funzionamento delle Assemblee Cittadine che sia indipendente dall’amministrazione, come peraltro è previsto dallo stesso Regolamento. 
+        </p>
+		<p>Per ora, questa rappresenta l’unica proposta che la giunta comunale ha accettato, spinta dall’azione che XR ha portato avanti con i presidi dell’ultimo mese. 
+        </p>
+		</li>
+		<li>
+		<p>Infine, il terzo nodo problematico riguarda l’obiettivo e l’ampiezza dell’Assemblea Cittadina sul clima. Nella delibera del Consiglio Comunale del 19 dicembre 2022, che  ha istituito l’Assemblea cittadina, c’è scritto che la finalità dell’Assemblea è quella di (cito) 
+        </p>
+		<p><i>“definire proposte e raccomandazioni all’Amministrazione per rendere Bologna la prima città solare, rinnovabile e sostenibile, accelerando drasticamente la transizione energetica giusta, verso un modello basato sulla riduzione dei consumi, l’efficientamento energetico, la produzione e utilizzo di energia rinnovabile, l’autoconsumo energetico individuale e collettivo, le comunità energetiche”.</i>
+        </p>
+		<p>Il problema di questa formula è che l’amministrazione si è appropriata di una competenza che dovrebbe essere dell’Assemblea Cittadina, ovvero la valutazione degli ambiti su cui è prioritario intervenire, con la conseguente individuazione delle politiche idonee a perseguire i suoi obiettivi. Il testo della delibera, infatti, definisce già in partenza 6 tipologie di intervento su cui l'Assemblea dovrebbe concentrarsi. E in questo modo sta escludendo in partenza altri ambiti potenzialmente molto rilevanti, come ad esempio quello della mobilità.
+        </p>
+		<p>In generale, sia la letteratura scientifica che la storia delle Assemblee Cittadine mostrano chiaramente che la forza di questo processo democratico risiede nella possibilità di sviluppare proposte che vadano al di là dei programmi elettorali dell’amministrazione di turno. In caso contrario, il rischio è che un mandato così limitato finisca per trasformare l'Assemblea in un organismo vuoto, il cui scopo è legittimare politiche già in programma, in modo da generare consenso verso l’amministrazione.
+        </p>
+		<p>XR ritiene, invece, che l’Assemblea Cittadina debba essere libera di sviluppare un’analisi autonoma delle politiche ecologiche comunali, con il supporto degli esperti chiamati a relazionare nella sua fase iniziale. In questo senso, il testo della delibera può ancora consentire un certo margine di libertà, purché l’espressione “transizione energetica” venga interpreta in maniera più ampia. Se l’amministrazione lo volesse, dunque, i lavori dell’Assemblea Cittadina potrebbero essere impostati in modo da garantire la libertà e l’autonomia di discussione, necessarie ad un qualsiasi processo democratico. 
+        </p>
+		</ol>
+		<p>Abbiamo discusso delle problematicità che vi abbiamo appena evidenziato con la Vicesindaca Clancy e l’assessora Boni durante il presidio del 6 febbraio e, in seguito, durante un incontro svoltosi il 14 febbraio, al quale hanno partecipato diverse realtà ecologiste interessate al percorso dell’Assembla cittadina. Tuttavia, le risposte che abbiamo ricevuto in queste due occasioni non ci hanno convinto.
+        </p>
+		<p>Ricapitolando, l’attuale tempistica dell’Assemblea Cittadina la priva della possibilità di influire in modo significativo sugli impegni che le aziende del territorio assumeranno all’interno della Missione europea per rendere Bologna climaticamente neutra entro il 2030. Tuttavia, è ancora possibile fare in modo che l’Assemblea Cittadina abbia un impatto significativo sulle politiche comunali. L'inserimento di un esperto indipendente nel comitato di coordinamento dell'Assemblea Cittadina rappresenta un passo nella giusta direzione, ma non è sufficiente. Infatti la buona riuscita dell'Assemblea dipenderà in maniera cruciale dalla scelta che l’amministrazione deciderà di effettuare rispetto al terzo punto che abbiamo sollevato. 
+        </p>
+		<p>Se l’Assemblea Cittadina verrà realizzata come l’amministrazione ha dichiarato di voler fare, cioè limitandone l’azione entro gli ambiti già pre-definiti nella delibera di indizione, allora è molto probabile che ne risulterà depotenziata al punto da venire meno alla sua ragion d’essere: ovvero la possibilità di generare proposte nuove, creative e più radicali rispetto a quelle già previste dell’amministrazione.
+        </p>
+		<p>Extinction Rebellion è stato tra i primi movimenti a lottare per la realizzazione dell’Assemblea Cittadina, grazie al supporto di chi studia da anni i processi partecipativi e delle altre realtà ecologiste che hanno abbracciato questa causa. È dal 2019 che lottiamo per questo, attraverso scioperi della fame e azioni di disobbedienza civile nonviolenta. Per questo, noi continueremo a lottare, a prendere la parola e ad agire affinché questa Assemblea Cittadina si riveli un’occasione di cambiamento reale e non un ennesimo tradimento della fiducia che la cittadinanza ripone nelle istituzioni.
+        </p>
+		<p>È evidente che in questo periodo storico i governi non stanno affrontando con radicalità e lungimiranza la crisi ecologica. Condizionati da interessi economici e schiacciati sulla ricerca del consenso elettorale, faticano ad elaborare politiche radicali ed efficaci, politiche necessarie non solo ad evitare il collasso ecologico, ma a re-istituire un mondo libero dallo sfruttamento economico, sociale e ambientale.
+        </p>
+		<p>In questo scenario, le Assemblee Cittadine rappresentano una sperimentazione inedita. Da un lato, infatti, costituiscono una possibilità di rinnovamento dei processi democratici che può correggere le debolezze strutturali della democrazia partecipativa, introducendo uno strumento deliberativo dal basso.
+        </p>
+		<p>Dall’altro, l’Assemblea cittadina è una possibilità concreta di accelerare la transizione ecologica di cui abbiamo assoluto bisogno per affrontare la crisi eco-climatica e immaginare un futuro per cui valga la pena lottare. 
+        </p>		
+		<p>Con amore e rabbia,
+        </p>
+		<p>Extinction Rebellion</p>
+      </div>
+    </section>

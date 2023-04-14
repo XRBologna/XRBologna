@@ -106,10 +106,17 @@ nav {
   transition: transform 0.3s ease-in-out;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 /* Hero Styles */
 
 .hero {
-  background-image: url('boloxr1.jpg');
+  background-image: url('dove-sono-leadc-18ma.jpg');
   background-size: cover;
   background-position: center center;
   height: calc(80vh - 85px);
@@ -155,6 +162,7 @@ h3 {
 
 .container h1, h2 {
 	font-family: FucXedLatin;
+	font-size: 36px;
 }
 
 .cta {
