@@ -113,10 +113,16 @@ nav {
   margin-bottom: 50px;
 }
 
+.responsive-nb {
+  width: 100%;
+  height: auto;
+  margin-top: 50px;
+}
+
 /* Hero Styles */
 
 .hero {
-  background-image: url('dove-sono-leadc-18ma.jpg');
+  background-image: url('anime.jpg');
   background-size: cover;
   background-position: center center;
   height: calc(80vh - 85px);
